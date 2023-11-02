@@ -39,6 +39,7 @@
       - pkg-config
       - fnm
       - cmake
+      - jrnl
     install_homebrew_if_missing: true
     upgrade_homebrew_packages: false
   pre_tasks:
